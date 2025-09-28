@@ -5,7 +5,7 @@ a = Analysis(
     ['CleanUpDisk.py'],
     pathex=[],
     binaries=[],
-    datas=[('Icons', 'Icons')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
